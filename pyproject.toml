@@ -1,0 +1,15 @@
+[project]
+name = "mlops4"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10.9"
+dependencies = [
+    "ipykernel>=6.29.5",
+    "ipython>=8.35.0",
+    "matplotlib>=3.10.1",
+    "pandas>=2.2.3",
+    "pyodbc>=5.2.0",
+    "scikit-learn>=1.6.1",
+    "xgboost>=3.0.0",
+]
